@@ -7,6 +7,7 @@
 		"todos": "Todos",
 		"demo-color": "Exemplo das cores",
 		"cat": "Exemplo dos gatos",
+		"cmd": "Exemplo ls API"
 	}
 </script>
 
